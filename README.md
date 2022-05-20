@@ -1,5 +1,7 @@
 # faceRecognition
 
+Simple face recognition and comparism
+
 ## Installation
 pip install cmake
 pip install dlib
